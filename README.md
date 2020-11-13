@@ -1,5 +1,4 @@
 # Simplified Blackjack - Procedural
-
 ## Learning Goals
 
 - Utilize conditional logic and looping
